@@ -77,3 +77,26 @@ The C.M.S. mission at Onitsha undertook the collection of a considerable amount 
 
 ------
 1. One is in the library of the School of Oriental and African Studies, University of London.
+
+
+![viii-intro](i08-9-intro.jpeg)
+
+viii.
+
+'While the Union-Ibo Version of the Bible was being prepared, the Assistant-Translator, Mr. T. D. Anyaegbunan, was asked to make a list of new words as they occurred. Many additions were made to the list by the late Archdeacon Dennis, and by other Missionaries as they supervised the work from time to time. It was then decided to prepare a Dictionary for the use of English-speaking people, with the object of encouraging them to learn the language of one of the largest, if not the largest, of the tribes in Nigeria. The outline Dictionary of English words, by A. C. Madan, prepared for students of African languages, was then taken as the basis of work, and in 1913 this selection of words was completed. Archdeacon Dennis was asked to revise the work and to see it through the Press during his furlough in England. On August 1st, 1917, the ship in which he was travelling with his wife was torpedoed off the coast of Ireland and the Archdeacon lost his life, and the MSS., together with his baggage, disappeared. Towards the end of August a fisherman found the box containing the M8S, on the shore near Towyn, Wales, where it had been washed up. He found a letter inside with an address, to which he sent the W88,, and in this way they came into the hands of Mrs. Dennis. The edges of the paper had been worn by the action of the water, but most of the writing was legible, and the rest which was a little difficult to
+decipher was copied out by Miss Beswick, one of our C.M.8. missionaries.'
+
+This dictionary gives forms in the Onitsha, Bonny, Arochukwu, and Ungwana dialects, 'more or less in that order', but to avoid confusion' does not mark which form comes from which dialect. Probably confusion would have been better avoided by the opposite decision.
+
+More recently, R. C. Abraham had, before his death, began work on an Igbo-English dictionary. The large amount of material he had collected has been deposited with the Institute of African Studies, University of Ibadan, where it is available for consultation. Based on the speech of Mr. D. Alagoma of Bonny, it represents a form of Igbo similar to the 'Compromise Igbo of Welmers and Welmers, and is copiously illustrated. If its author had lived to complete it, it would no doubt have been of a richness comparable with that of his Dictionary of Modern Yoruba (1958).1
+
+A still more recent work, Armstrong's Comparative wordlists of five Igbo dialecta (1967), began as an attempt to determine more exactly the dialeat of Abraham's material and hence the dialect in which the work could most profitably be continued. This work re-emphasizes the complex phonology of the southern Igbo dialects, already brought to light in
+
+-------
+1. University of London Press.
+
+![x present work](i10-11-present-work.jpeg)
+
+the work of Carnochan (1968), Swift and others (1962), d Green and Igve (1963).
+
+It will be see that a common theme running through much of the work here surveyed is a pre-occupation with the dis probles. Only the work of Abraham and Welmers and Welaers attempts to deal with an unqualified Igbo". Of the other works, it is clear that a great deal of Onitsha material, in particular, has been collected at one time or another; that so little of it has reached print is probably due to the concentration first upon Union and later upon Central Igbo.
