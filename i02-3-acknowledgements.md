@@ -1,6 +1,6 @@
 # Acknowledgements and Table of Contents
 
-![Acknowledgements and Table of Contents](i2-3-acknowledgements.jpeg)
+![Acknowledgements and Table of Contents](i02-3-acknowledgements.jpeg)
 
 <span style="text-align: center; white-space: pre;">
 
