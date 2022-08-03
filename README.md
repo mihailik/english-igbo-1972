@@ -4,12 +4,16 @@ Pages from Igbo English dictionary published in 1972 by Kay Williamson with sign
 
 ![book cover](book.jpeg)
 
-## Provided the book was published in 1972 and today it's 2022, the conventional copyright of 50 years expires right about now
+## Copyright
 
-It isn't my intention to publish this book in free access though. If it should be done, it shoud be done by someone with actual Igbo identity, and awareness of historical/cultural/ethical context.
+This is a first few pages of the book, giving general understanding of the value and the type of it.
 
-I do find this book interesting though, and will just put here first few pages.
+I hope it fits the fair use permissive case, and helps someone.
+
+The book itself I have bought on internet, but it's old and might be quite rare.
 
 [i. Title page](i01-title.md) <br>
 [ii-iii. Acknowledgements and Table of Contents](i02-3-acknowledgements.md) <br>
 [iv-v. Introduction](i04-5-toc-introduction.md) <br>
+[x-xvii. The development of the present work](i10-present-work.md) <br>
+[xx-... Onitsha Igbo](i20-onitsha.md)
